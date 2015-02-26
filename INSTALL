@@ -1,0 +1,9 @@
+Building Xaurum
+
+See doc/readme-qt.rst for instructions on building Xaurum QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Xaurum.
+
+See doc/build-*.txt for instructions on building xaurumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Xaurum.
